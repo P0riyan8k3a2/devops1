@@ -1,2 +1,3 @@
 # devops1
-used for practice of devops concepts
+Developer Priyanka Mehra
+Used for practice of devops concepts
